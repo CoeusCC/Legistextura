@@ -1,3 +1,6 @@
 [submodule "chyrp"]
 	path = chyrp
 	url = https://github.com/chyrp/chyrp.git
+[submodule "blog"]
+	path = blog
+	url = https://github.com/chyrp/chyrp.git
