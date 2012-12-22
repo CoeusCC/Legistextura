@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-    /*! Legistextura - v0.1 - 2012-12-21 */
+    <!-- ! Legistextura - v0.1 - 2012-12-21 -->
     <title>Legistextura | Citizens Making a DIFF in Legislation</title>
     <link rel="shortcut icon" href="favicon.ico">
     <meta charset="utf-8" />
