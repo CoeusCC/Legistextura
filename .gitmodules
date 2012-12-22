@@ -1,0 +1,3 @@
+[submodule "chyrp"]
+	path = chyrp
+	url = https://github.com/chyrp/chyrp.git
