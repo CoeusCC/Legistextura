@@ -106,6 +106,7 @@ blockquote {
 }
 .content {
     font-size:1.15em;
+	line-height:1.67;
 }
 .socialcount {
     text-align:center;
@@ -136,14 +137,10 @@ blockquote {
     float: left;
     color: #903;
     font-size: 300%;
-    padding-top: 4px;
-    padding-right: 3px;
+    padding-top: 0.25em;
+    padding-right: 0.1em;
     line-height: 75%;
 }
-.illumination {
-    font-family: 'im_fell_flowers_2regular', serif;
-}
-
 @media only screen and (min-width: 450px ) and ( max-width: 700px )    {
     h2 { font-size:1.3em; }
     p { font-size:1.1em; }
